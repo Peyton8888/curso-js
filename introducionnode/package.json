@@ -1,0 +1,18 @@
+{
+  "name": "javajs",
+  "version": "1.0.0",
+  "description": "Este es mi primer proyecto de java Script con open boot cam",
+  "main": "index.js",
+  "scripts": {
+    "prueba": "node pueba.js ",
+    "start": "node index.js",
+    "saludar":"node holamundo.js ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "holamundo",
+    "first proyects"
+  ],
+  "author": "Peyton 8888",
+  "license": "ISC"
+}

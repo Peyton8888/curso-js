@@ -1,0 +1,17 @@
+---datos primitivo---
+-Number : 2
+String: "hola"
+Bolean : true and false
+null : null
+indefined  indefinido = undefined
+------------------------------
+false represneta el numero 0
+true represneta el numero 1
+
+------------------------------
+null , undefined, false , 0 ==> todas son false
+
+------------------------------
+var ==> variable global
+let ==> variable region
+const ==> variable unica
