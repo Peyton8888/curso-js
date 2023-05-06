@@ -5,8 +5,14 @@ const color = chalk.bold.green;
 const sumar = suma(4,5)
 console.log(sumar)
 
-const multiplicar = multiplicación(1,2);
-console.log(color(multiplicar));
+
+console.log(color(multiplicación(suma(1, 2), suma(4, 5))));
+
+// correcion
+// respuesta correcta
+console.log(color(multiplicación(suma(1, 2), suma(4, 5))));
+
+
 
 
 
